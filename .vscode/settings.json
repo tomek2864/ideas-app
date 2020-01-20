@@ -1,0 +1,12 @@
+{
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "[json]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "editor.formatOnSave": true,
+      "json.format.enable": false,
+      "emmet.includeLanguages": {
+            "javascriptreact": "html",
+            "javascript": "html"
+      }
+}
